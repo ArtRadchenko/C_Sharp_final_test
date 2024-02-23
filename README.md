@@ -10,7 +10,7 @@
 
 ## Файлы
 **.gitignore** - список игнорируемых файлов в GIT.  
-**C_Sharp_final_test.csproj** - файл проекта VSC. 
+**C_Sharp_final_test.csproj** - файл проекта VSC.  
 **Program.cs** - код программы на языке C#.   
 **block_diagram.jpg** - изображение блок-схемы.  
 **block_diagram.vsdx** - файл MS Visio с блок-схемой.  
